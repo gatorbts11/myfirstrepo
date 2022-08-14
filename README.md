@@ -1,2 +1,2 @@
 # myfirstrepo
-example repo
+example go gators
